@@ -1,0 +1,6 @@
+streamlit==1.35.0
+google-cloud-aiplatform==1.47.0
+vertexai==0.0.1
+python-dotenv==1.0.1
+pillow==10.2.0
+tenacity==8.2.3 

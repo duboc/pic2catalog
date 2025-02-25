@@ -1,0 +1,34 @@
+{
+  "product_name": "Ultra HD Smart TV 65-inch",
+  "brand": "TechVision",
+  "category": "Electronics",
+  "subcategory": "Televisions",
+  "short_description": "Experience stunning 4K resolution and immersive sound with the TechVision Ultra HD Smart TV. Its sleek design, wide viewing angles, and smart features make it the perfect centerpiece for your home entertainment system.",
+  "long_description": "The TechVision Ultra HD Smart TV delivers exceptional picture quality with 4K resolution, HDR support, and local dimming for deeper blacks and brighter highlights. Featuring a powerful quad-core processor, this smart TV provides smooth performance for streaming your favorite content from Netflix, Amazon Prime, and other popular services. Its bezel-less design and slim profile create a stunning aesthetic in any room. The integrated AI assistant supports voice commands for convenient hands-free control, while the comprehensive connectivity options ensure compatibility with all your devices. The 60Hz refresh rate with motion enhancement technology provides smooth action scenes, making it ideal for movies and sports.",
+  "key_features": [
+    "4K Ultra HD Resolution (3840 x 2160)",
+    "HDR10 and Dolby Vision Support",
+    "Smart TV functionality with built-in Wi-Fi",
+    "Voice control with AI assistant integration",
+    "Dolby Atmos sound system",
+    "Bluetooth connectivity",
+    "Multiple HDMI and USB ports",
+    "Bezel-less design"
+  ],
+  "technical_specifications": {
+    "resolution": "3840 x 2160 pixels",
+    "refresh_rate": "60Hz with motion enhancement",
+    "hdr_support": "HDR10, Dolby Vision",
+    "processor": "Quad-core MediaTek processor",
+    "operating_system": "SmartOS 10.0",
+    "audio_output": "20W (10W x 2)",
+    "connectivity": "Wi-Fi 5, Bluetooth 5.0, HDMI x3, USB x2, Ethernet, Optical audio out"
+  },
+  "material": "Aluminum frame with plastic back panel",
+  "dimensions": "57.5\" x 33.2\" x 2.4\" (without stand), Stand width: 48.4\"",
+  "color_options": ["Black", "Silver"],
+  "suggested_price_range": "$699 - $799",
+  "target_audience": "Home entertainment enthusiasts, families, streaming service users, and gamers",
+  "seo_keywords": "4K TV, smart television, Ultra HD TV, TechVision TV, 65 inch television, HDR TV, smart home entertainment, bezel-less TV",
+  "search_tags": ["4K", "SmartTV", "65inch", "UltraHD", "TechVision", "HDR", "DolbyVision", "HomeEntertainment"]
+} 
